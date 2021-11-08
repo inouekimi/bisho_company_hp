@@ -1,0 +1,2 @@
+class Bisho < ApplicationRecord
+end
